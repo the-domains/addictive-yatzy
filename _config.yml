@@ -1,0 +1,28 @@
+name: Addictive Yatzy
+favicon: null
+layout_spectrum: 0.08821700979024172
+typography_spectrum: 0.5428219696041197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9996737742330879
+  lightness: 0.09677583840675652
+  saturation: 0.06049810512922704
+  rhythmicContrast: 0.5863267264794558
+purpose: []
